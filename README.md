@@ -1,0 +1,2 @@
+# tgerencial
+Arquivos TGS
